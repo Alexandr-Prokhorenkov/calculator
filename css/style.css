@@ -15,9 +15,6 @@ button {
 }
 
 .page {
-  inline-size: 1200px;
-  block-size: 100%;
-  margin: auto;
   color: #fff;
   font-family: 'Inter', sans-serif;
   font-size: 18px;
@@ -134,3 +131,5 @@ ol {
 .accent {
   background-color: #F89B10;
 }
+
+@media
